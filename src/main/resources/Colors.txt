@@ -1,0 +1,108 @@
+Blanco : #FFFFFF
+Gris claro : #D3D3D3
+Gris plateado : #C0C0C0
+Gris medio : #A9A9A9
+Gris ceniza : #B2BEB5
+Gris pizarra : #708090
+Gris oscuro : #696969
+Gris antracita : #2F4F4F
+Negro : #000000
+Rosa Palo : #FFD1DC
+Rosa Claro : #FFB6C1
+Rosa : #FF69B4
+Rosa Fucsia : #FF00FF
+Rojo Coral : #FF7F50
+Rojo Mandarina : #FF6347
+Rojo : #FF0000
+Rojo Oscuro : #8B0000
+Rojo Granate : #800000
+Naranja Claro : #FFA07A
+Naranja : #FFA500
+Naranja Quemado : #CC5500
+Marrón Arena : #F4A460
+Marrón Claro : #D2B48C
+Marrón Oscuro : #8B4513
+Marrón Chocolate : #7B3F00
+Marrón : #A52A2A
+Marrón Rojizo : #8B0000
+Amarillo Pálido : #FFFACD
+Amarillo Oro Claro : #FAFAD2
+Amarillo Maíz : #FFF8DC
+Amarillo Canario : #FFEF00
+Amarillo Mostaza : #FFDB58
+Amarillo Dorado : #FFD700
+Amarillo Oscuro : #FFD700
+Amarillo Miel : #FFB347
+Amarillo Naranja : #FFA500
+Verde Claro : #90EE90
+Verde Primavera : #00FF7F
+Verde Esmeralda : #50C878
+Verde Oliva : #808000
+Verde Musgo : #8FBC8F
+Verde Lima : #32CD32
+Verde Mar : #2E8B57
+Verde Bosque : #228B22
+Verde Neón : #27AE60
+Aguamarina : #7FFFD4
+Turquesa Medio : #48D1CC
+Cian Medio : #00CED1
+Verde Azulado : #20B2AA
+Verde Agua : #5F9EA0
+Cian Oscuro : #008B8B
+Azul Celeste : #87CEEB
+Azul Claro : #ADD8E6
+Azul Cian : #2D9CDB
+Azul Dodger : #1E90FF
+Azul Real : #4169E1
+Azul Cadete : #5F9EA0
+Azul Acero : #4682B4
+Azul Cobalto : #0047AB
+Azul Medianoche : #191970
+Violeta : #EE82EE
+Magenta Oscuro : #8B008B
+Lavanda Oscura : #734F96
+Ciruela : #DDA0DD
+Violeta Púrpura : #800080
+Malva : #9932CC
+Celadón : #ACE1AF
+Cardenillo : #77DD77
+Verdigris : #43B3AE
+Drake’s Neck Green : #355E3B
+Glaucous : #6082B6
+Zafiro : #0F52BA
+Smalt : #003399
+Malva : #B784A7
+Gamboge : #E49B0F
+Amaranto : #E52B50
+Cinabrio : #E34234
+Falu Rojo : #801818
+Oro Metálico : #D4AF37
+Plata Metálica : #C0C0C0
+Bronce Metálico : #CD7F32
+Cobre Metálico : #B87333
+Titanio : #878681
+Platino : #E5E4E2
+Oro Brillante : #FFD700
+Oro Rosado : #B76E79
+Acero Inoxidable : #B0C4DE
+Latón : #B5A642
+Aluminio : #A9ACB6
+Níquel : #AFAFAF
+Rojo Mate : #C1440E
+Azul Mate : #4863A0
+Verde Mate : #4B5320
+Negro Mate : #555555
+Gris Mate : #8B8B8B
+Marrón Mate : #5C4033
+Rosa Pastel : #FFD1DC
+Azul Pastel : #AEC6CF
+Verde Pastel : #77DD77
+Amarillo Pastel : #FDFD96
+Lavanda Pastel : #CBAACB
+Melocotón Pastel : #FFB347
+Tierra Siena : #E97451
+Arcilla : #A67B5B
+Café : #6F4E37
+Caqui : #C3B091
+Siena Tostada : #D2691E
+Tierra Quemada : #734A12
